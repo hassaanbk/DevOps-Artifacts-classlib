@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\hassa\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNuGet_CommandLine Condition=" '$(PkgNuGet_CommandLine)' == '' ">C:\Users\hassa\.nuget\packages\nuget.commandline\6.4.0</PkgNuGet_CommandLine>
+  </PropertyGroup>
 </Project>

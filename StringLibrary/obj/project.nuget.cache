@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hK5ZON4aaz4kCayNJ4v8IXJhWsYeBGZ7JknUd5ki/HwLhb2HP71iRjv95/eR4he8cL6FbIeiD/mJsCLp0VfrbQ==",
+  "dgSpecHash": "OI1d7J/92FetRpZstbSezcychNocMv5NUtq0atTNQZvsT4ZAving3at/rl7nsg++xdFmLljyhFIYFf28u4/0+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\hassa\\Course Work\\DevOps - Lab4\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hassa\\.nuget\\packages\\nuget.commandline\\6.4.0\\nuget.commandline.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

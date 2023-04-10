@@ -7,10 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "StringLibrary/1.0.0": {
+        "dependencies": {
+          "NuGet.CommandLine": "6.4.0"
+        },
         "runtime": {
           "StringLibrary.dll": {}
         }
-      }
+      },
+      "NuGet.CommandLine/6.4.0": {}
     }
   },
   "libraries": {
@@ -18,6 +22,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "NuGet.CommandLine/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bQj+MyfitxRe4yDoyVa9YB+mQsFi2pYBrvvfTzLVNQCUOOKw9WN50odv1BqjDLhgMXDa1RWcQAsmeMDY9Xg3BQ==",
+      "path": "nuget.commandline/6.4.0",
+      "hashPath": "nuget.commandline.6.4.0.nupkg.sha512"
     }
   }
 }
