@@ -14,17 +14,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hassa\\Course Work\\DevOps - Lab4\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
-      "projectName": "StringLibrary",
-      "projectPath": "C:\\Users\\hassa\\Course Work\\DevOps - Lab4\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\hassa\\Course Work\\DevOps - Lab4\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+      "projectName": "ShowCase",
+      "projectPath": "C:\\Users\\hassa\\Course Work\\DevOps - Lab4\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
       "packagesPath": "C:\\Users\\hassa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hassa\\Course Work\\DevOps - Lab4\\ClassLibraryProjects\\StringLibrary\\obj\\",
+      "outputPath": "C:\\Users\\hassa\\Course Work\\DevOps - Lab4\\ClassLibraryProjects\\ShowCase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hassa\\Course Work\\DevOps - Lab4\\ClassLibraryProjects\\StringLibrary\\NuGet.Config",
         "C:\\Users\\hassa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
